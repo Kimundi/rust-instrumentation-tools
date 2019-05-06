@@ -1,0 +1,8 @@
+[package]
+name = "call-trace"
+version = "0.1.0"
+authors = ["Marvin Löbel <loebel.marvin@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+call-trace-macro = { path = "../call-trace-macro" }
